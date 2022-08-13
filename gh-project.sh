@@ -41,11 +41,7 @@ echo "First, create a new folder to initialize your repository"
 read -p "Please type in your folder name:  " PROJECT_NAME
 mkdir $PROJECT_NAME
 cd $PROJECT_NAME
-echo "Now you are in your new project folder!$end"
-
-# Gather Constant Vars
-CURRENTDIR="pwd"
-GITHUBUSER="git config user.name"
+echo "Now you are in your new project folder!"
 
 # Name the new repository
 echo "Name for your new repository:"
