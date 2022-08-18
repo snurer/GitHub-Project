@@ -8,3 +8,7 @@ This repository includes a simple bash script to automate initializing a new rep
 - Installation of jq
 
 (They will be both covered during the execution of "[gh-project.sh](https://github.com/snurer/GitHub-Project/blob/main/gh-project.sh)" script, so don't worry!)
+
+## Contribution
+
+Don't hesitate to clone the code and use it.
